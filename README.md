@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Redux and TypeScript<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns and Next.js<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
+<p align="left">📚 I'm currently learning Redux and TypeScript.<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns and Next.js.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
 
 ###
 
