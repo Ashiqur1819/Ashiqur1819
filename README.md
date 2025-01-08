@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">HI, I am MD. Ashiqur Rahman</h1>
+<h1 align="left">Hi, I am MD. Ashiqur Rahman</h1>
 
 ###
 
