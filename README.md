@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi, I am MD. Ashiqur Rahman</h1>
+<h1 align="left">Hi, I am MD. ASHIQUR RAHMAN</h1>
 
 ###
 
@@ -16,11 +16,11 @@
 
 ###
 
-<p align="left">I’m Ashiqur Rahman, a MERN stack web developer from Bangladesh and a 2nd-year Humanities student. Since passing my HSC in 2020, I’ve built a strong foundation in web development, focusing on creating innovative, high-quality projects. Passionate about coding, I aim to grow as a full-stack developer, contributing impactful solutions to the tech industry.</p>
+<p align="left">I’m a MERN stack web developer from Bangladesh and a 2nd-year Humanities student. Since passing my HSC in 2020, I’ve built a strong foundation in web development, focusing on creating innovative, high-quality projects. Passionate about coding, I aim to grow as a full-stack developer, contributing impactful solutions to the tech industry.</p>
 
 ###
 
-<p align="left">📚 I'm currently learning Redux and TypeScript.<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns and Next.js.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
+<p align="left">📚 I'm learning Redux and TypeScript.<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns and Next.js.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
 
 ###
 
