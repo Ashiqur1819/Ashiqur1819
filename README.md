@@ -4,9 +4,13 @@
 
 ###
 
-<h1 align="left">HI, I am MD. ASHIQUR RAHMAN</h1>
+<br clear="both">
+
+<h1 align="left">HI, I am MD. Ashiqur Rahman</h1>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Frontend Web Developer</h3>
 
