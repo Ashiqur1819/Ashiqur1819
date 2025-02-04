@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" width="100%" src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
+  <img height="300" src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
 </div>
 
 ###
