@@ -1,14 +1,16 @@
+<br clear="both">
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
+  <img height="400" width="100%" src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
 </div>
 
 ###
 
-<h1 align="left">Hi, I am MD. ASHIQUR RAHMAN</h1>
+<h1 align="left">HI, I am MD. Ashiqur Rahman</h1>
 
 ###
 
-<h4 align="left">MERN Stack Web Developer</h4>
+<h3 align="left">Frontend Web Developer</h3>
 
 ###
 
@@ -16,11 +18,11 @@
 
 ###
 
-<p align="left">I’m a MERN stack web developer from Bangladesh and a 2nd-year Humanities student. Since passing my HSC in 2020, I’ve built a strong foundation in web development, focusing on creating innovative, high-quality projects. Passionate about coding, I aim to grow as a full-stack developer, contributing impactful solutions to the tech industry.</p>
+<p align="left">I’m Ashiqur Rahman, a MERN stack web developer from Bangladesh and a 2nd-year Humanities student. Since passing my HSC in 2020, I’ve built a strong foundation in web development, focusing on creating innovative, high-quality projects. Passionate about coding, I aim to grow as a full-stack developer, contributing impactful solutions to the tech industry.</p>
 
 ###
 
-<p align="left">📚 I'm learning Next.js.<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns and Next.js.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
+<p align="left">📚 I'm currently learning Redux and TypeScript<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns, authentication with JWT, and deployment strategies on Vercel.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!</p>
 
 ###
 
@@ -56,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
@@ -67,9 +71,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ashiqur1819" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/Aashiq1819" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="ashiqurrahman1819@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -83,8 +84,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashiqur1819&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashiqur1819&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Ashiqur1819&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiqur1819&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashiqur1819&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashiqur1819&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Ashiqur1819&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Ashiqur1819&theme=dracula&column=1&row=1&margin-w=1&margin-h=10&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashiqur1819&radius=16&theme=react&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/output/snake.svg" alt="Snake animation" />
+
+###
