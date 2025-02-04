@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="400" src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
+<img align="right" height="300" src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/refs/heads/main/md.%20ashiqur%20Rahman.png"  />
 
 ###
 
