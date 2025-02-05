@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="left">HI, I am MD. Ashiqur Rahman</h1>
+<h1 align="left">HI, I am MD. ASHIQUR RAHMAN</h1>
 
 ###
 
