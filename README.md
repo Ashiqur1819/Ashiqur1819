@@ -18,7 +18,11 @@
 
 ###
 
-<p align="left">I’m Ashiqur Rahman, a MERN stack web developer from Bangladesh and a 2nd-year Humanities student. Since passing my HSC in 2020, I’ve built a strong foundation in web development, focusing on creating innovative, high-quality projects. Passionate about coding, I aim to grow as a full-stack developer, contributing impactful solutions to the tech industry.</p>
+<p align="left">I am a junior MERN stack developer with a strong focus on front-end development. I have a
+passion for creating clean, responsive, and user-friendly interfaces. I am dedicated to building
+impactful projects, enhancing user experiences, and expanding my knowledge of modern web
+technologies. I strive to give my best efforts to contribute to the growth and success of
+everything I work on.</p>
 
 ###
 
