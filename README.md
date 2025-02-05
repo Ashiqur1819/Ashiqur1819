@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Frontend Web Developer</h3>
+<h3 align="left">Junior MERN Stack Web Developer</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I am a junior MERN stack developer with a strong focus on front-end development. I have a
+<p align="left">I am a Junior MERN Stack Web Developer with a strong focus on front-end development. I have a
 passion for creating clean, responsive, and user-friendly interfaces. I am dedicated to building
 impactful projects, enhancing user experiences, and expanding my knowledge of modern web
 technologies. I strive to give my best efforts to contribute to the growth and success of
