@@ -98,5 +98,4 @@ everything I work on.</p>
 ###
 
 <img src="https://raw.githubusercontent.com/Ashiqur1819/Ashiqur1819/output/snake.svg" alt="Snake animation" />
-
 ###
