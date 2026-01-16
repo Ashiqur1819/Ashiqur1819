@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Junior MERN Stack Web Developer</h3>
+<h3 align="left">Junior Backend Developer</h3>
 
 ###
 
@@ -18,15 +18,11 @@
 
 ###
 
-<p align="left">I am a Junior MERN Stack Web Developer with a strong focus on front-end development. I have a
-passion for creating clean, responsive, and user-friendly interfaces. I am dedicated to building
-impactful projects, enhancing user experiences, and expanding my knowledge of modern web
-technologies. I strive to give my best efforts to contribute to the growth and success of
-everything I work on.</p>
+<p align="left">My career goal is to contribute to impactful projects while enhancing my skills in backend development and modern web technologies to drive success in every project. As a Backend Developer, I am eager to embrace new challenges and build secure, scalable, and efficient server-side applications. I aim to grow continuously and achieve excellence in my field.</p>
 
 ###
 
-<p align="left">📚 I'm currently learning Next.js<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced React patterns, authentication with JWT, and deployment strategies on Vercel.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!<br>📱 Phone: +8801931536316</p>
+<p align="left">📚 I'm currently learning TypeScript<br>🎯 Goals: To contribute to impactful open-source projects and build scalable applications.<br>🚀 Successfully deployed multiple projects using Vercel and Netlify.<br>👨‍💻 Most of my projects are available on GitHub.<br>🧐 Exploring advanced JavaScript concepts, authentication with JWT, and deployment strategies on Vercel.<br>🎲 Fun fact: When not coding, I’m diving into books or exploring new tech trends!<br>📱 Phone: +8801617871079</p>
 
 ###
 
